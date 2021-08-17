@@ -7,8 +7,9 @@ Todo App development to learn [Recoil](https://recoiljs.org/)
 
 ## Live
 
+https://zealous-yonath-465ea7.netlify.app/
 
-## How to
+## How to DEV
 
 1. Clone the repo
 2. Run ``npm install``
